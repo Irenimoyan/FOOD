@@ -83,17 +83,25 @@ body{
         color: blue;
         border-style: hidden;
       }
-.image-fluid{
-  margin-left: -10%;
-  margin-right: 40%;
-  width: 30%;
-  height: -20%;
-  margin-top: -10%;
-  float: left;
+#logo{
+  margin-left: 50%;
+  width: 5%;
+  margin-top: 20px;
+  /* margin-bottom: 5px; */
+}
+.logo{
+  margin-top: -5px;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
 
 }
 .header{
   display: block;
+}
+.nav{
+  margin-left: 14%;
+  margin-right: 10%;
 }
 #cheese{
   margin-left: 250px;
@@ -199,4 +207,9 @@ body{
 }
 #allef{
   width: 45%;
+}
+.link{
+  text-decoration: none;
+  font-size: small;
+  color: blue;
 }
