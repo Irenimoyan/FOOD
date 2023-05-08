@@ -213,3 +213,7 @@ body{
   font-size: small;
   color: blue;
 }
+.link:hover{
+  color: #fff;
+  text-transform: uppercase;
+}
